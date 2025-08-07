@@ -80,8 +80,6 @@
 <!---
 <div align="center">
 
-![My Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nazaraskroglu&theme=tokyo-night&hide_border=true)
-</div>
 */
 --->
 <p align="center">
