@@ -69,30 +69,21 @@
 </p>
 
 
-
-
-
 <h2 align="center">My GitHub Stats :bar_chart:</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nazaraskroglu&show_icons=true&theme=radical"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazaraskroglu&theme=radical&layout=compact" />
 </p>
-<!---
-<div align="center">
 
-*/
---->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nazaraskroglu&theme=tokyonight&no-frame=true&margin-w=10">
 </p>  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nazaraskroglu&theme=tokyonight&hide_border=true">
-</p>  
+
 <div  align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nazaraskroglu/nazaraskroglu/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nazaraskroglu/nazaraskroglu/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/nazaraskroglu/nazaraskroglu/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nazaraskroglu/nazaraskroglu/output/github-contribution-grid-snake-dark.svg?v=1" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nazaraskroglu/nazaraskroglu/output/github-contribution-grid-snake.svg?v=1" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/nazaraskroglu/nazaraskroglu/output/github-contribution-grid-snake.svg?v=1" />
 </picture>
 
 
