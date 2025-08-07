@@ -74,13 +74,13 @@
 
 <h2 align="center">My GitHub Stats :bar_chart:</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nazaraskroglu&show_icons=true&theme=radical&count_private=true" alt="nazaraskroglu :: Profile Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazaraskroglu&theme=radical&layout=compact&count_private=true" alt="nazaraskroglu :: Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nazaraskroglu&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazaraskroglu&theme=radical&layout=compact" />
 </p>
 <!---
 <div align="center">
 
-[![My Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=nazaraskroglu&bg_color=141321&line=fb418c&color=A9FEF7&custom_title=My%20Github%20Activity%20Graph&area=true&hide_border=true&count_private=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![My Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nazaraskroglu&theme=tokyo-night&hide_border=true)
 </div>
 */
 --->
@@ -92,8 +92,9 @@
 </p>  
 <div  align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nazaraskroglu/nazaraskroglu/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/nazaraskroglu/nazaraskroglu/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/nazaraskroglu/nazaraskroglu/blob/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/<kullanici>/<kullanici>/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<kullanici>/<kullanici>/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/<kullanici>/<kullanici>/output/github-contribution-grid-snake.svg" />
 </picture>
+
 </div>
