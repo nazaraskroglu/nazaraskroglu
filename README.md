@@ -78,7 +78,34 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nazaraskroglu&theme=tokyonight&no-frame=true&margin-w=10">
 </p>  
-
+    </tr>
+      <td align="center" colspan="2">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nazaraskroglu/nazaraskroglu/refs/heads/output-pacman/pacman-contribution-graph-dark.svg?v=1" />
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nazaraskroglu/nazaraskroglu/refs/heads/output-pacman/pacman-contribution-graph-dark.svg?v=1" />
+          <img alt="github-pacman" src="https://raw.githubusercontent.com/nazaraskroglu/nazaraskroglu/refs/heads/output-pacman/pacman-contribution-graph-dark.svg?v=1" />
+        </picture>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nazaraskroglu/nazaraskroglu/refs/heads/output-three-d/profile-night-rainbow.svg?v=1" />
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nazaraskroglu/nazaraskroglu/refs/heads/output-three-d/profile-night-rainbow.svg?v=1" />
+          <img alt="github-three-d" src="https://raw.githubusercontent.com/nazaraskroglu/nazaraskroglu/refs/heads/output-three-d/profile-night-rainbow.svg?v=1" />
+        </picture>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nazaraskroglu/nazaraskroglu/output-snake/github-contribution-grid-snake-dark.svg?v=1" />
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nazaraskroglu/nazaraskroglu/output-snake/github-contribution-grid-snake.svg?v=1" />
+          <img alt="github-snake" src="https://raw.githubusercontent.com/nazaraskroglu/nazaraskroglu/output-snake/github-contribution-grid-snake.svg?v=1" />
+        </picture>
+      </td>
+    </tr>
+    <tr>
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nazaraskroglu/nazaraskroglu/output/pacman-contribution-graph-dark.svg" />
