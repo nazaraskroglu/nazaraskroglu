@@ -20,7 +20,7 @@ jobs:
       - name: Generate profile 3D contrib
         uses: yoshi389111/github-profile-3d-contrib@0.7.0
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
       - name: Delete and recreate output-three-d branch
@@ -33,7 +33,7 @@ jobs:
           git commit --allow-empty -m "Start fresh branch"
           git push --set-upstream origin output-three-d --force
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
 
       - name: Copy only SVG files to output-three-d branch (without folder)
         run: |
@@ -52,4 +52,4 @@ jobs:
           branch: output-three-d
           force_push: true
         env:
-          GIT_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GIT_AUTH_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
